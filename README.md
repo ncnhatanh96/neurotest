@@ -22,7 +22,7 @@ Please install requirement:
 
 Usage
 -----------------
-We can use CURL to send HTTP POST request
+We can use CURL to send HTTP POST request:
 	curl -d '{"Address": "put_your_address_here"}' -X POST http://localhost:5000/distance
 
 Document
