@@ -1,0 +1,5 @@
+Python>=3.8
+Flask==2.0.1
+Werkzeug==2.0.1
+turfpy==0.0.7
+
