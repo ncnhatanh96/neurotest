@@ -19,14 +19,14 @@ Setup
 -----------------
 Please install requirement: <br />
 ```javascript
-	pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 Usage
 -----------------
 We can use CURL to send HTTP POST request:<br />
 ```javascript
-	- curl -d '{"Address": "put_your_address_here"}' -X POST http://localhost:5000/distance
+curl -d '{"Address": "put_your_address_here"}' -X POST http://localhost:5000/distance
 ```
 
 Document
