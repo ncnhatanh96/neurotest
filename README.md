@@ -12,8 +12,7 @@ Table of Contents
 
 Introduction
 -----------------
-This flask app is created for interview purpose.
-It will receive location address through HTTP request and calculate distance between MKAD and that address.
+This flask will receive location address through HTTP request and calculate distance between MKAD and that address.
 
 Setup
 -----------------
